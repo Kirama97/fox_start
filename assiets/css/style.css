@@ -9,3 +9,13 @@
     font-family: Poppins;
     box-sizing: border-box;
 }
+
+
+button:hover{
+    background-color: rgba(0, 0, 255, 0.774);
+}
+
+.future_item:hover {
+    background-color: white;
+    transition: 1.5s ease;
+}
