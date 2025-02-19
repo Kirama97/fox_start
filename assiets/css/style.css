@@ -15,7 +15,8 @@ button {
     transition: 0.5s ease;
 }
 button:hover{
-    background-color: rgba(26, 26, 228, 0.774);
+    background-color: rgba(26, 26, 228, 0.836);
+   
 }
 
 .future_item {
@@ -24,6 +25,7 @@ button:hover{
 
 .future_item:hover {
     background-color: rgb(43, 53, 185);
+   
    
 }
 .pricing {
